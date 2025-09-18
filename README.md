@@ -1,4 +1,8 @@
 # Django ORM Cheat Sheet
+**To open the Django shell, you just need to run this command from your project root directory (where manage.py lives):**
+```bash
+python manage.py shell
+```
 
 ### Import model(s) before making queries
 ```python
